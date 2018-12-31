@@ -38,6 +38,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Yunjie Gao
 email: gaoyunjiemao@gmail.com
 avatar: assets/images/GithubPhoto.png
+github_url: https://gaoyunjiemao.github.io/
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
